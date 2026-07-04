@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="DependancyInversion/DependancyInversion.csproj" />
+  <Project Path="DesignPatterns/Single.csproj" />
+  <Project Path="Liskov/Liskov.csproj" />
+  <Project Path="Open-Closed/Open-Closed.csproj" />
+  <Project Path="Segretation/Segretation.csproj" />
+</Solution>
