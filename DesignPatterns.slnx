@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="DesignPatterns/SOLID.csproj" />
+  <Project Path="Open-Closed/Open-Closed.csproj" />
+</Solution>
